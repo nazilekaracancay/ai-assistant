@@ -10,8 +10,8 @@
   // ─── CONFIG ─────────────────────────────────────────────
   const CFG = {
     // API anahtarını buraya girin VEYA script tag'ına data-key="sk-ant-..." ekleyin
-    apiKey: document.currentScript?.getAttribute('data-key') || window.LOOP_API_KEY || '',
-    whatsapp: '+905321234567',          // Başında + ile gerçek numaranızı girin
+    apiKey: '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',
+    whatsapp: '+905301431564',          // Başında + ile gerçek numaranızı girin
     whatsappMsg: 'Merhaba! Web sitesindeki AI asistanından yönlendirildim, bilgi almak istiyorum.',
     contactUrl: 'https://loopagency.company/#contact',
     primaryColor: '#c8ff00',
