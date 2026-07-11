@@ -16,7 +16,7 @@
     contactUrl: 'https://loopagency.company/#contact',
     primaryColor: '#c8ff00',
     darkBg: '#0f0f0f',
-    model: 'claude-sonnet-4-20250514',
+    model: 'claude-haiku-4-5-20251001',
     maxTokens: 800,
     storageKey: 'loop_chat_v1',
     openDelay: 3000,                    // ms — ilk açılış gecikmesi (0 = kapalı başlar)
